@@ -1,0 +1,12 @@
+{
+  "name": "raspi-gpio-sample",
+  "version": "1.0.0",
+  "description": "This project is an experimental code project of the Raspberry Pi GPIO.",
+  "main": "index.js",
+  "author": "taiga",
+  "license": "ISC",
+  "dependencies" : {
+    "raspi" : "^2.0.0",
+    "raspi-gpio" : "^2.1.0"
+  }
+}
